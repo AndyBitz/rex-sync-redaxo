@@ -1,0 +1,7 @@
+package: rex-sync-redaxo
+version: '1.0.0'
+
+page:
+  title: 'Rex-Sync'
+  subpages:
+    config: { title: 'Config' }
