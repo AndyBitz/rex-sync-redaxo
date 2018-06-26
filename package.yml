@@ -1,5 +1,6 @@
-package: rex-sync-redaxo
-version: '1.0.0'
+package: rex_sync_redaxo
+version: '1.0.0-alpha.1'
+author: Andy Bitz
 
 page:
   title: 'Rex-Sync'
